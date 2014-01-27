@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/user/newmath"
+	"github.com/brando90/newmath"
 )
 
 func main() {
